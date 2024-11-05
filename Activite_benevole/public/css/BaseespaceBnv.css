@@ -1,0 +1,672 @@
+body{
+    background: #FFF8E8;
+    
+}
+
+#navtop{
+    height: 76px;
+    background: #DFD6C3;
+    background-blend-mode: darken;
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#imgLogo,#imgLogoFb {
+    width: 107px;
+    height: 70px;
+}
+
+.btnDevBnv{
+    width: 80px;
+    height: 80px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #9B9A97;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(0.88, -0.48, 0.53, 0.85, 0, 0);
+}
+
+.btnDispoBnv{
+    width: 80px;
+    height: 80px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(0.88, -0.48, 0.53, 0.85, 0, 0);
+}
+
+#navBot{
+    height: 80px;
+    background: #DFD6C3;
+    background-blend-mode: darken;
+   
+    
+background-blend-mode: darken;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+/* Accueil Page*/
+#Together{
+    background: #D9D9D9;
+    position: relative;
+}
+#descrptionTitre{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+
+text-align: center;
+
+
+color: #000000;
+}
+.descriptionText{
+    
+    font-family: 'Inter';
+    font-style: normal;
+ 
+    font-size: 30px;
+    
+    
+    
+    
+    color: #000000;
+    }
+
+#descrptionA{
+    position: absolute;
+    top: 0%;
+
+}
+
+/* senior 1 */
+
+#imgSenior{
+
+    width: 543px;
+    height: 545px;
+    position: absolute;
+    top: 10%;
+
+}
+
+#descrption{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+
+}
+
+#divTitreAct{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+
+}
+.descriptionTextS{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    
+    
+    color: #000000;
+    }
+.leLien{
+    position: absolute;
+    top: 98%;
+    left: 70%;
+    font-size: 20px;
+}
+
+/* Scolaire */
+#imgScolaire{
+
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    top: 20%;
+
+}
+
+/* alimentaire */
+
+#imgAlimentaire{
+
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    top: 20%;
+
+}
+/* Fin Accueil Page*/
+
+/*SeniorPage*/
+#SeniorPage{
+    background: #D9D9D9;
+    position: relative;
+
+}
+
+#imgHappySenior{
+
+    width: 700px;
+    height: 450px;
+    position: absolute;
+    top: 15%;
+
+}
+
+#descrptionPageSenior{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    right: 5%;
+}
+
+#descrptionMission {
+    left:5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 876;
+    font-size: 24px;
+    color: #000000;
+    font-variation-settings: 'slnt' 0;
+}
+
+#descrptionTitreMission{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 876;
+    font-size: 20px;
+    color: #000000;
+}
+
+.descriptionTextMission{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    color: #000000;
+}
+
+/*espaceBnv disponibilité*/
+
+body{
+    background: #FFF8E8;
+}
+#SeniorPage{
+    background: #D9D9D9;
+    position: relative;
+
+
+}
+#formulaireInscription{
+
+    position: absolute;
+    top: 15%;
+
+}
+
+#Titre{
+    position: absolute;
+    top: 5%;
+    left: 35%;
+
+}
+#descrptionTitre{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+
+    text-align: center;
+
+
+    color: #000000;
+}
+
+.lableJour{
+
+    /* Rectangle 4 */
+
+    width: 156.57px;
+    height: 101.44px;
+
+    position: relative;
+    background: #E8A95F;
+    display: flex;
+}
+
+.lableJourText{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    align-self: center;
+    text-align: center;
+
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.slectClass,.jourOption{
+
+    width: 156.57px;
+    height: 101.44px;
+    left: 50.47px;
+    top: 1138.57px;
+    background: #000000;
+
+    /* Matin */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFF8E8;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+#bntSubmit{
+    /* Group 3 */
+
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 90%;
+    top: 80%;
+
+    background: #FBF1DD;
+    border-radius: 3px;
+
+    /* Valider */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 44px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    border: 0.25px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.error-message {
+    color: red;
+}
+
+#div-error-message{
+    height: 80px;
+    width: 300px;
+}
+/* espaceBnvDispo*/
+
+.tableDispo{
+    top: 15%;
+}
+
+.table-primary{
+
+    background: #DFD6C3;
+    background-blend-mode: darken;
+}
+
+.tableDispo{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    color: #000000;
+
+}
+/*activite bnv page*/
+#ActiviteDivBnvPage{
+    background: #D9D9D9;
+    position: relative;
+
+}
+#ActiviteDivBnv{
+
+    top:5%;
+    left: 0%;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+
+    color: #000000;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+
+#imgLogoBackActivite{
+    height: 100px;
+}
+
+#divMissionReponse{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    color: #000000;
+}
+
+.btndivMissionReponse{
+    width: 80px;
+    height: 60px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #35a9c0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+
+.btndivMissionReponseRefus{
+    width: 80px;
+    height: 60px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+
+.btnDispoBnvAccepter{
+
+width: 80px;
+height: 80px;
+
+background: #20A887;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: #FBF1DD;
+border: 1px solid #FBF1DD;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-30deg);
+   
+}
+
+.btnDispoBnvRefuser{
+
+width: 80px;
+height: 80px;
+background: #FF5C00;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FBF1DD;
+
+border: 1px solid #FBF1DD;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-30deg);
+
+}
+
+
+
+/*admine*/
+.btnAdmine{
+  
+   
+
+    background: #9B9A97;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+    margin-right: auto; 
+    margin-left: auto;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+}
+.AdmineDivBnv{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;    
+    color: #000000;
+}
+/*admine Page acceuil*/
+
+#imgLogoBackAcc{
+    height: 400px;
+
+}
+/*admine Page activite*/
+
+#btnAjouterMis{
+    width: 160px;
+    height: 80px;
+
+    background: #019d38;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FBF1DD;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;  
+    left: 44%;  
+}
+
+.btnParticipant{
+    width: 100px;
+    height: 60px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+
+.btnAjouterBnv{
+    width: 100px;
+    height: 60px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #e28b18;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+
+#navBot {
+    
+    bottom: 0;
+    width: 100%;
+  }
+
+  .btnDispoBnvs{
+    width: 80px;
+    height: 80px;
+    left: 1297.27px;
+    top: 3px;
+
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FBF1DD;
+
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(0.88, -0.48, 0.53, 0.85, 0, 0);
+}
+
+/* page5 act admine*/
+#ActiviteDivBnvPage5{
+
+    background: #96dbfb;
+    position: relative;
+}
+.AdmineDivBnvPage5{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;    
+    color: #000000;
+
+    align-items: center;
+    text-align: center;
+}
+
+
+
+

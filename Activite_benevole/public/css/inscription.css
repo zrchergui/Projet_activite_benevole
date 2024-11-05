@@ -1,0 +1,140 @@
+body{
+    background: #FFF8E8;
+}
+#SeniorPage{
+    background: #D9D9D9;
+    position: relative;
+
+
+}
+#formulaireInscription{
+
+    position: absolute;
+    top: 15%;
+
+}
+
+#Titre{
+    position: absolute;
+    top: 5%;
+    left: 35%;
+
+}
+#descrptionTitre{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.lableJour{
+
+    
+    /* Rectangle 4 */
+
+
+width: 156.57px;
+height: 101.44px;
+
+position: relative;
+background: #E8A95F;
+display: flex;
+
+
+}
+.lableJourText{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+align-self: center;
+text-align: center;
+
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.slectClass,.jourOption{
+
+
+
+ width: 156.57px;
+height: 101.44px;
+left: 50.47px;
+top: 1138.57px;
+
+
+background: #000000;
+
+
+/* Matin */
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFF8E8;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#bntSubmit{
+/* Group 3 */
+
+position: absolute;
+width: 100px;
+height: 60px;
+left: 90%;
+top: 80%;
+
+background: #FBF1DD;
+border-radius: 3px;
+
+
+
+
+/* Valider */
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+border: 0.25px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.error-message {
+    color: red;
+}
+
+#div-error-message{
+    height: 80px;
+    width: 300px;
+}
